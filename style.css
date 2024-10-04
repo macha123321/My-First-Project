@@ -1,0 +1,86 @@
+body {
+    font-family: "Overpass", sans-serif;
+    background-image: url(images/tech.webp);
+}
+
+h1 {
+    font-family: "Overpass", sans-serif;
+    color: #333;
+    text-align: center;
+}
+
+
+input[type="text"] {
+    font-family: "Overpass", sans-serif;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+
+
+button {
+    font-family: "Overpass", sans-serif;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+
+button:hover {
+    font-family: "Overpass", sans-serif;
+    background-color: #45a049;
+}
+
+.container {
+    font-family: "Overpass", sans-serif;
+    width: auto;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+  }
+
+  input[type="number"] {
+    font-family: "Overpass", sans-serif;
+    width: 200px;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+select {
+    font-family: "Overpass", sans-serif;
+    width: 200px;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+
+.grey{
+    font-family: "Overpass", sans-serif;
+    background-color: grey;
+}
+
+.overpass {
+    font-family: "Overpass", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+  }
